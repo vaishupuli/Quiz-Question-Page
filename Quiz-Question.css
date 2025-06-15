@@ -1,0 +1,83 @@
+
+.card_container {
+    background-color: #875fc0;
+    height: 100vh;
+}
+
+.heading {
+    color: #ffffff;
+    font-size: 20px;
+    text-align: right;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.white_card {
+    background-color: #ffffff;
+    margin: 10px;
+    border-radius: 10px;
+    font-family: Roboto;
+}
+
+.headings {
+    color: #323f4b;
+    font-size: 25px;
+    text-align: center;
+}
+
+.paragraph {
+    color: #323f4b;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.image {
+    height: 100px;
+    padding-bottom: 10px;
+
+}
+
+.white_card_2 {
+    background-color: #ffffff;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+
+    font-family: Roboto;
+    text-align: center;
+}
+
+.options-list {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.option {
+    color: #323f4b;
+    background-color: #ffffff;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #323f4b;
+    border-radius: 8px;
+    padding: 13px;
+    margin: 10px;
+}
+
+.correct-option {
+    color: #ffffff;
+    background-color: #875fc0;
+}
+
+
+.buttons_last {
+    background-color: #fbaf00;
+    color: #ffffff;
+    border-radius: 10px;
+    border-color: #fbaf00;
+    padding: 5px;
+}
